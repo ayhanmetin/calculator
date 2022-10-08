@@ -1,2 +1,1 @@
-# github.io-calculator
-Calculator Project: JavaScript
+# Calculator Project: JavaScript
