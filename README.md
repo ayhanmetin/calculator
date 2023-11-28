@@ -1,11 +1,16 @@
-# Calculator Project: JavaScript
+# Simple Calculator Web Project
 
-iOS calculator using HTML, CSS & Vanilla Javascript 
+## Description
+This project features a web-based calculator designed with an iOS-style interface. It supports essential arithmetic operations and is equipped with features for integer input handling, a clear function for resets, and a backspace for corrections. The calculator provides an intuitive and seamless calculation experience, making it user-friendly and efficient for everyday calculations.
 
-This project was part of the Frontend Masters Online Bootcamp
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-Visit page: https://frontendmasters.com/bootcamp/calculator-javascript/
+## Live Demo
 
+```
+https://www.ayhanmetin.eu/calculator/index.html
+```
 
-
-![calculator-spec](https://user-images.githubusercontent.com/108268012/234004528-6000dc40-4b9d-4bb1-b735-a3b6b11333f4.png)
